@@ -1,1 +1,7 @@
+I used the Iris dataset from sklearn
+I chose sepal length and petal length as features.
+I created a scatter plot to see the relationship between them.
+The plot shows a positive correlation.
+When sepal length increases, petal length also increases.
 
+I used ChatGPT to help me with this assignment,but I understand the basics.
