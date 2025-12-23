@@ -1,7 +1,1 @@
-I used the Iris dataset from sklearn
-I chose sepal length and petal length as features.
-I created a scatter plot to see the relationship between them.
-The plot shows a positive correlation.
-When sepal length increases, petal length also increases.
-
-I used ChatGPT to help me with this assignment,but I understand the basics.
+אני לוקח את הנתונים של הפרחים מהקובץ, בוחר את הערכים של הספטל ושל עלי הכותרת, ואז אני מצייר גרף נקודות שמראה איך הם קשורים אחד לשני. אני מוסיף כותרות לציר האורך ולציר הרוחב ולגרף עצמו, ובסוף אני שומר את הציור כקובץ תמונה כדי שאוכל להשתמש בו או להראות אותו.
